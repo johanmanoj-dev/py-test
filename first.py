@@ -1,4 +1,4 @@
-"""#var = "fu babe"
+"""#var = "hello"
 #print(f"what i have to say is {var}")
 #em = "johan@gmail.cpm"
 #print (f"hit me up on {em}")
